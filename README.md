@@ -106,6 +106,6 @@ public class GeometryApp {
 2) Разработать по UML диаграмме классы: TicketProvider и CashProvider
 Полностью разработанный проект должен собраться и выполниться. Общая UML диаграмма, проект и UML неразработанных 
 классов приложена в материалах курса.
-![CoreDiag (1) (1).png](CoreDiag%20%281%29%20%281%29.png)
-![UMLDomen (2) (1).jpg](UMLDomen%20%282%29%20%281%29.jpg)
-![UMLProvider (3) (1).jpg](UMLProvider%20%283%29%20%281%29.jpg)
+![CoreDiag (1) (1).png](https://github.com/Ask1509/Software_Architecture_HW4/blob/main/CoreDiag%20(1)%20(1).png).
+![UMLDomen (2) (1).jpg](https://github.com/Ask1509/Software_Architecture_HW4/blob/main/UMLDomen%20(2)%20(1).jpg).
+![UMLProvider (3) (1).jpg](https://github.com/Ask1509/Software_Architecture_HW4/blob/main/UMLProvider%20(3)%20(1).jpg).
